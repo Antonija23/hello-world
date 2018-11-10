@@ -1,5 +1,5 @@
-# Hello world message
-Publishing projects on Github. Examples for students.
+# hello-world
+Početnički repozitorij
 ## Git makes the difference
 Git makes the difference
 ## Opet neki naslov
